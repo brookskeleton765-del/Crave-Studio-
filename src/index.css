@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-crave-black: #0a0a0a;
+  --color-crave-dark: #121212;
+  --color-crave-brown: #2c1e16;
+  --color-crave-gold: #f5a623;
+  --color-crave-neon: #ff3b30;
+  --color-crave-light: #f8f8f8;
+}
+
+body {
+  background-color: var(--color-crave-black);
+  color: var(--color-crave-light);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--color-crave-black);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-crave-brown);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-crave-gold);
+}
