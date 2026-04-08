@@ -2,14 +2,14 @@ import { motion } from 'motion/react';
 import { Instagram } from 'lucide-react';
 
 const socialImages = [
-  "/Artistic muffins.jpg",
-  "/Bouqet fries.jpg",
-  "/Bouquet fries.jpg",
-  "/Bouquetfries.jpg",
-  "/Donar kabab ..jpg",
-  "/Donar kabab.jpg",
-  "/Potatao pizza.jpg",
-  "/artisticmuffins.jpg"
+  "/artistic-muffins.jpg",
+  "/bouqet-fries.jpg",
+  "/bouquet-fries.jpg",
+  "/bouquetfries-2.jpg",
+  "/donar-kabab-signature.jpg",
+  "/donar-kabab.jpg",
+  "/potato-pizza.jpg",
+  "/artisticmuffins-2.jpg"
 ];
 
 export function SocialProof() {

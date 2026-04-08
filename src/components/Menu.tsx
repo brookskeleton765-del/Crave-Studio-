@@ -9,7 +9,7 @@ const menuItems = [
     description: 'Juicy, slow-roasted meat carved fresh, wrapped in warm artisan bread with our signature garlic sauce.',
     price: 850,
     priceDisplay: 'Rs 850',
-    image: '/Donar kabab.jpg',
+    image: '/donar-kabab.jpg',
     tag: 'Signature'
   },
   {
@@ -18,7 +18,7 @@ const menuItems = [
     description: 'Crispy potato base crust topped with thinly sliced roasted potatoes, melted mozzarella, and truffle oil.',
     price: 750,
     priceDisplay: 'Rs 750',
-    image: '/Potatao pizza.jpg',
+    image: '/potato-pizza.jpg',
     tag: 'New'
   },
   {
@@ -27,7 +27,7 @@ const menuItems = [
     description: 'A massive cone of extra-crispy fries loaded with melted cheese, jalapeños, and spicy mayo drip.',
     price: 450,
     priceDisplay: 'Rs 450',
-    image: '/Bouquet fries.jpg',
+    image: '/bouquet-fries.jpg',
     tag: 'Hot Seller'
   },
   {
@@ -36,7 +36,7 @@ const menuItems = [
     description: 'A savory fusion delight! Spicy, flavor-packed fast food baked into a fun muffin shape with a zesty kick.',
     price: 350,
     priceDisplay: 'Rs 350',
-    image: '/Artistic muffins.jpg',
+    image: '/artistic-muffins.jpg',
     tag: 'Fusion'
   }
 ];

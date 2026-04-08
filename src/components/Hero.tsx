@@ -7,7 +7,7 @@ export function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/Bouquet fries.jpg"
+          src="/bouquet-fries.jpg"
           alt="Delicious Food Background"
           className="w-full h-full object-cover object-center"
           referrerPolicy="no-referrer"

@@ -54,7 +54,7 @@ export function SignatureItems() {
             className="group relative rounded-3xl overflow-hidden h-[400px] md:h-[500px]"
           >
             <img 
-              src="/Donar kabab ..jpg" 
+              src="/donar-kabab-signature.jpg" 
               alt="The Ultimate Donar" 
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
               referrerPolicy="no-referrer"
@@ -92,7 +92,7 @@ export function SignatureItems() {
             className="group relative rounded-3xl overflow-hidden h-[400px] md:h-[500px]"
           >
             <img 
-              src="/Potatao pizza.jpg" 
+              src="/potato-pizza.jpg" 
               alt="Combo Deal" 
               className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 group-hover:scale-105"
               referrerPolicy="no-referrer"
